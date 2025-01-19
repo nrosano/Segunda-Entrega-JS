@@ -116,5 +116,3 @@ resetButton.addEventListener("click", () => {
 });
 
 mostrarFacturas();
-
-//hola
